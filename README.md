@@ -35,7 +35,7 @@
 
 <h1 align="left">Website Name :  Web-CV</h1>
 
-<h3 align="left"> A simple portfolio website made with Bootstrap.</h3>
+<h3 align="left"> My CV made with HTML, CSS. </h3>
 
 
 <br>
