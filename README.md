@@ -33,9 +33,9 @@
 <br>
 
 
-<h1 align="left">Website Name :  Web-CV</h1>
+<h2 align="left">Website Name :  Web-CV</h2>
 
-<h3 align="left"> My CV made with HTML, CSS. </h3>
+<p align="left"> My CV made with HTML, CSS. </p>
 
 
 <br>
